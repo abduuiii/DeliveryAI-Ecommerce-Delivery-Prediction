@@ -1,0 +1,25 @@
+# Python virtual environment
+ecommerce_env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# React dependencies
+node_modules/
+frontend/node_modules/
+
+# Build files
+dist/
+frontend/dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Other
+.vscode/
+.DS_Store
